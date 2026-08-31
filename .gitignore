@@ -4,4 +4,4 @@ __pycache__/
 venv/
 .env
 *.pdf
-PartA_demo.txt
+*.txt
